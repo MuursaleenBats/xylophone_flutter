@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:word_generator/word_generator.dart';
 
 void main() {
   runApp(
